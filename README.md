@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🛠️ **Associate DevOps Engineer** @ **GoTo Technologies**, Bengaluru
+- 🛠️ **Ex-Associate DevOps Engineer** @ **GoTo Technologies**, Bengaluru
 - 🌱 A **learning engineer** at heart — I obsess over building **real solutions that ship and create impact**
 - ☁️ Currently architecting a **multi-cloud DevOps platform** spanning **OCI, AWS & Azure** (yes, entirely on free-tier 💸)
 - 🎓 B.E. in Computer Science & Business Systems, **JSSSTU Mysuru** (2025)
@@ -113,7 +113,7 @@ goal: >
   <a href="https://github.com/lsuthar-coder">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://lsuthar.in">
+  <a href="https://portfolio.lsuthar.in">
     <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
